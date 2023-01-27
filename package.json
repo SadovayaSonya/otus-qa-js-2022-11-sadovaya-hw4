@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/OTUS-QA-JS/qajs-2022-11/issues"
   },
-  "homepage": "https://github.com/OTUS-QA-JS/qajs-2022-11#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "jest": "^29.3.1",
